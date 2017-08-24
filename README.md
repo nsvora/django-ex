@@ -4,7 +4,7 @@ This is a [Django](http://www.djangoproject.com) project that you can use as the
 
 The steps in this document assume that you have access to an OpenShift deployment that you can deploy applications on.
 
-## What has been done for you
+## What has been done for you - NSV
 
 This is a minimal Django 1.8 project. It was created with these steps:
 
